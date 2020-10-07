@@ -1,6 +1,7 @@
 # EA_paper
 EA_paper
-[3] Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena and Carlo Zaniolo. # Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment. IJCAI,2018.
+
+[3] Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena and Carlo Zaniolo. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment. IJCAI,2018.
 
 [4] Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.EMNLP,2018.
 
