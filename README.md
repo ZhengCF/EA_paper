@@ -1,10 +1,6 @@
 # EA_paper
 EA_paper
-[1] 刘峤,李杨,段宏,刘瑶,秦志光.知识图谱构建技术综述[J].计算机研究与发展,2016,53(03):582-600.
-
-[2] 王鑫,邹磊,王朝坤,彭鹏,冯志勇.知识图谱数据管理研究综述[J].软件学报,2019,30(07):2139-2174.
-
-[3] Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena and Carlo Zaniolo. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment. IJCAI,2018.
+[3] Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena and Carlo Zaniolo. # Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment. IJCAI,2018.
 
 [4] Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.EMNLP,2018.
 
@@ -19,6 +15,7 @@ EA_paper
 [9] Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun.Iterative Entity Alignment via Joint Knowledge Embeddings.IJCAI,2017.
 
 [10]Ning Pang, Weixin Zeng, Jiuyang Tang, Zhen Tan, and Xiang Zhao.Iterative Entity Alignment with Improved Neural Attribute Embedding.ESWC,2019.
+
 [11]Zhao Zhang, Fuzhen Zhuang, Meng Qu, Fen Lin, Qing He.Knowledge Graph Embedding with Hierarchical Relation Structure.EMNLP,2018.
 
 [12]Guoji Fu, Chengbin Hou, and Xin Yao.Learning Topological Representation for Networks via Hierarchical Sampling. IJCNN,2019.
