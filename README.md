@@ -31,31 +31,29 @@
 
 15. **Multi-view Knowledge Graph Embedding for Entity Alignment.** Qingheng Zhang, Zequn Sun, Wei Hu, Muhao Chen, Lingbing Guo. IJCAI,2019.
 
-16. Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan,Li Guo.Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs.IJCAI,2019.
+16. **Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs.** Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan,Li Guo.IJCAI,2019.
 
-17. Xu Han,Zhiyuan Liu,Maosong Sun.Neural Knowledge Acquisition via Mutual Attention between Knowledge Graph and Text.AAAI,2019.
+17. **Neural Knowledge Acquisition via Mutual Attention between Knowledge Graph and Text.** Xu Han,Zhiyuan Liu,Maosong Sun.AAAI,2019.
 
-18. Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao. Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs.IJCAI,2019.
+18. **Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs.** Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.IJCAI,2019.
 
-19. Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran,Jason Weston, Oksana Yakhnenko.Translating Embeddings for Modeling Multi-relational Data.NIPS,2013.
+19. **Translating Embeddings for Modeling Multi-relational Data.** Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran,Jason Weston, Oksana Yakhnenko.NIPS,2013.
 
-20. Muhao Chen, Yingtao Tian, Mohan Yang, and Carlo Zaniolo. Multilingual Knowledge Graph Embeddings for Crosslingual Knowledge Alignment. IJCAI,2017.
+20. **Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding.** Zequn Sun, Wei Hu, and Chengkai Li. 2017. ISWC 2017 October 21-25.
 
-21. Zequn Sun, Wei Hu, and Chengkai Li. 2017. Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding. ISWC 2017 October 21-25.
+21. **Bootstrapping Entity Alignment with Knowledge Graph Embedding.** Zequn Sun, Wei Hu, Qingheng Zhang, and Yuzhong Qu. IJCAI,2018: 4396–4402.
 
-22. Zequn Sun, Wei Hu, Qingheng Zhang, and Yuzhong Qu.Bootstrapping Entity Alignment with Knowledge Graph Embedding.IJCAI,2018: 4396–4402.
+23. **Graph Attention Networks.** Petar Velickovic, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio. CoRR abs,2017.
 
-23. Petar Velickovic, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.Graph Attention Networks. CoRR abs,2017.
+24. **Learning entity and relation embeddings for knowledge graph completion.** Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu,Xuan Zhu. AAAI, 2015b.
 
-24. Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu,Xuan Zhu. Learning entity and relation embeddings for knowledge graph completion. AAAI, 2015b.
+25. **Transg : A generative model for knowledge graph embedding.** Han Xiao, Minlie Huang, and Xiaoyan Zhu. ACL, 2016.
 
-25. Han Xiao, Minlie Huang, and Xiaoyan Zhu.Transg : A generative model for knowledge graph embedding. ACL, 2016.
+26. **Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding.** Zequn Sun, Wei Hu, Chengkai Li. ISWC 2017: 628-644.
 
-26. Zequn Sun, Wei Hu, Chengkai Li. Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding. ISWC 2017: 628-644.
+25. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.** Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst. NIPS 2016: 3837-3845
 
-25. Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. NIPS 2016: 3837-3845
-
-28. Thomas N. Kipf, Max Welling. Semi-Supervised Classification with Graph Convolutional Networks. ICLR 2017.
+28. **Semi-Supervised Classification with Graph Convolutional Networks.** Thomas N. Kipf, Max Welling. ICLR 2017.
 
 29. **Graph Attention Networks.** Petar Velickovic, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio. ICLR, 2018.
 
